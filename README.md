@@ -1,7 +1,7 @@
 # ClothFormer: Taming Video Virtual Try-on in All Module(CVPR 2022 Oral)
 
 
-paper | [project](https://cloth-former.github.io/)
+[paper](https://arxiv.org/abs/2204.12151) | [project](https://cloth-former.github.io/)
 
 In order to reduce the project size, we put all videos of paper's figures on [google drive](https://drive.google.com/drive/folders/1lCQTB_8rKXfe-lhq9eUc8KVXo_cHqox9?usp=sharing).
 
